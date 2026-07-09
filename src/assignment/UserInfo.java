@@ -1,7 +1,5 @@
 package assignment;
 
-import java.sql.SQLOutput;
-
 public class UserInfo {
     public static void main(String[] args) {
         System.out.println("제 이름은 백혜승입니다.");
